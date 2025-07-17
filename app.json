@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "FarmingAssistant",
+    "slug": "farming-assistant",
+    "version": "1.0.0",
+    "extra": {
+      "WEATHER_API_KEY": "a2cccadaf4c829025da2d4b6c6cbcf96"
+    }
+  }
+}
